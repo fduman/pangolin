@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangolin.Demo.AspNetCore", "Pangolin.Demo.AspNetCore\Pangolin.Demo.AspNetCore.csproj", "{D20B8565-F0CB-4463-803A-A499E77C02B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangolin", "Pangolin\Pangolin.csproj", "{3359D789-1666-491B-A575-C1EE7E44FF3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangolin.Redis", "Pangolin.Redis\Pangolin.Redis.csproj", "{3A5A2A4C-E639-442A-A0CC-E47426219C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D20B8565-F0CB-4463-803A-A499E77C02B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20B8565-F0CB-4463-803A-A499E77C02B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20B8565-F0CB-4463-803A-A499E77C02B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20B8565-F0CB-4463-803A-A499E77C02B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3359D789-1666-491B-A575-C1EE7E44FF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3359D789-1666-491B-A575-C1EE7E44FF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3359D789-1666-491B-A575-C1EE7E44FF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3359D789-1666-491B-A575-C1EE7E44FF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A5A2A4C-E639-442A-A0CC-E47426219C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5A2A4C-E639-442A-A0CC-E47426219C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5A2A4C-E639-442A-A0CC-E47426219C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5A2A4C-E639-442A-A0CC-E47426219C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
